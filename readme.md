@@ -1,0 +1,1 @@
+# Sprint 2 entrega 2.2: MySQL queries
